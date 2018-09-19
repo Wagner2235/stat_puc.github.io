@@ -1,4 +1,4 @@
-## Olá Sejam Bem-Vindos
+## ESTATÍSTICA GERAL – TEORIA E APLICAÇÕES
 
 Realizando o Teste para avaliar se a pagina está seguindo os meus comandos!
 
@@ -26,10 +26,21 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Estatística descritiva
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wagner2235/stat_puc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Probabilidade e distribuições de probabilidade
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Inferência: Estimação pontual e intervalar e testes de hipóteses
+
+
+
+### Utilização de software para análises estatísticas
+
+
+
+### Análise de casos aplicados à gestão
+
